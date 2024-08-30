@@ -7,8 +7,8 @@
     "distDir": "../build"
   },
   "package": {
-    "productName": "Relais",
-    "version": "0.1.1"
+    "productName": "Voix",
+    "version": "0.1.0"
   },
   "tauri": {
     "allowlist": {
@@ -70,7 +70,7 @@
         "icons/icon.icns",
         "icons/icon.ico"
       ],
-      "identifier": "io.github.monax-owo.relais",
+      "identifier": "io.github.monax-owo.voix",
       "longDescription": "",
       "macOS": {
         "entitlements": null,
@@ -100,7 +100,7 @@
     "windows": [
       {
         "label": "main",
-        "title": "relais",
+        "title": "voix",
         "width": 400,
         "height": 260,
         "resizable": false,
