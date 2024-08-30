@@ -1,8 +1,8 @@
-<h1 align="center">Relais</h1>
+<h1 align="center">Voix</h1>
 <div align="center">tauri</div>
 <div align="center">
-  <a href="//github.com/monax-owo/relais" target="_blank">
-    Relais
+  <a href="//github.com/monax-owo/voix" target="_blank">
+    Voix
   </a>
 </div>
 
